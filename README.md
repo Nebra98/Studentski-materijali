@@ -1,5 +1,15 @@
 Web aplikacija, koja pruža portal za objavljivanje studentskih materijala za učenje.
 
+Mogućnosti:
+- Admin panel
+- Kreiranje kategorija za pojedinačne teme (kolegije)
+- Pretraga kategorija
+- Pretraga dokumenata
+- Mogućnost objave dokumenata formata: .doc, .txt, .pdf, .ppt, .xls, .csv
+- Uređivanje vlastitih dokumenata
+- Brisanje vlastitih dokumenata
+- Preuzimanje dokumenata drugih korisnika
+
 1. Što je potrebno: 
     - instaliran lokalni server npr. xampp
     - instaliran phpadminpanel (mysql)
