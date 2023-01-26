@@ -1,3 +1,5 @@
+Web aplikacija, koja pruža portal za objavljivanje studentskih materijala za učenje.
+
 1. Što je potrebno: 
     - instaliran lokalni server npr. xampp
     - instaliran phpadminpanel (mysql)
@@ -32,5 +34,3 @@ Podaci za logiranje kao admin user su:
 - email: admin@admin.com
 - pass: password
 
-
-Na projektu su radili: Branimir Bulić, Marko Galić, Hrvoje Ramljak, Filip Buntić
