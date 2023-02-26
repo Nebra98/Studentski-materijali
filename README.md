@@ -14,7 +14,7 @@ Mogućnosti:
     - instaliran lokalni server npr. xampp
     - instaliran phpadminpanel (mysql)
     
-2. Pokrenuti komandu: git clone https://github.com/Nebra98/elektronicko_poslovanje.git , ili Download ZIP
+2. Pokrenuti komandu: git clone https://github.com/Nebra98/Studentski-materijali , ili Download ZIP
     
 3. Nakon što ste preuzeli datoteku, potrebno je da se navigirate u nju preko terminala ili cmd-a
  
